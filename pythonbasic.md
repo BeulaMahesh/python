@@ -14,7 +14,7 @@ My First Program
 First lets define what is python?</p>
 
 
- <div style="font-size:1.2em;font-family:">
+ <div style="font-size:1.2em">
 
  * Python is a high-level programming language designed to be easy to read and simple to implement.
 
@@ -25,9 +25,56 @@ First lets define what is python?</p>
 
  * You will also be able to write your first simple program in python.
 </div>
+<div> 
 <p span style="font-size:2em;font-family:MV Boli">
 Installing Python</p>
+<u><p span style="font-size:1.6em">
+Downloading</p></u>
 
+ <div style="font-size:1.2em">
+
+* Lets follow the stepwise method to install python on your own devices
+
+**Step1:** 
+ Click on <u>[pythondownload](https://www.python.org/ downloads/)</u><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The page below will  appear on your brower
+<br>
+<br>
+
+![download](images\windows.png)
+
+
+
+**Step2:** 
+* Select the link based on your OS.Click on **Windows** link if ur an windows user<br>
+* The python releases for windows will appear.
+* Based on the system type select the downloads.
+
+![release](images\release.png)
+
+<br>
+
+**Step3:** 
+* Click on the Download <u>**Windows x86-64 executable**</u> installer link which is below the Stable Releases.
+![install](images\install.png)
+* An pop window will appear.Click savefile button.
+* The python will start downloading.
+* Start installing directly.
+
+<p span style="font-size:1.5em">
+<u>Installing</u></p>
+
+<br>
+
+**Step1:**
+* Double click the downloaded file.
+* An **Setup** Window will pop up.
+![alt](images\setup.png)
+* Check that both checkboxes below are checked.
+* Click on the **Install now**.
+* The progress of installation will be shown  
+</div>
 
 
 
