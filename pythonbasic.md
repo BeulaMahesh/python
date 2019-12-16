@@ -42,7 +42,8 @@ Downloading</p></u>
 <br>
 <br>
 
-![download](python\images\windows.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/57989446/70888096-86feeb00-2005-11ea-918b-83c2560c07e6.png)
+
 
 
 
