@@ -42,7 +42,7 @@ Downloading</p></u>
 <br>
 <br>
 
-![download](pthon\images\windows.png)
+![download](pthonbasics\images\windows.png)
 
 
 
