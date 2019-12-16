@@ -78,7 +78,7 @@ Installing Python</p>
 <img src="images/progess.png" width=600>
 <br>
 **Step3:**
-* After the completion of installation,a new Python 3.7.4 (64-bit) Setup window will pop-up stating Setup was successfull.
+* After the completion of installation,a new Python 3.7.4(64-bit) Setup window will pop-up stating Setup was successfull.
 <img src="images/success.png" width=600>
 
 
