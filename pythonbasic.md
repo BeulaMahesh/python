@@ -52,13 +52,13 @@ Downloading</p></u>
 * The python releases for windows will appear.
 * Based on the system type select the downloads.
 
-![release](images\release.png)
+![release](images/release.png)
 
 <br>
 
 **Step3:** 
 * Click on the Download <u>**Windows x86-64 executable**</u> installer link which is below the Stable Releases.
-![install](images\install.png)
+![install](images/install.png)
 * An pop window will appear.Click savefile button.
 * The python will start downloading.
 * Start installing directly.
@@ -71,7 +71,7 @@ Downloading</p></u>
 **Step1:**
 * Double click the downloaded file.
 * An **Setup** Window will pop up.
-![alt](images\setup.png)
+![alt](images/setup.png)
 * Check that both checkboxes below are checked.
 * Click on the **Install now**.
 * The progress of installation will be shown  
