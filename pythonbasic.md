@@ -42,7 +42,7 @@ Installing Python</p>
 <br>
 <br>
 
-![Screenshot (8)](images/windows.png)
+<img src="images/windows.png" width=600>
 
 
 
@@ -52,13 +52,13 @@ Installing Python</p>
 * The python releases for windows will appear.
 * Based on the system type select the downloads.
 
-<img src="images/release.png" width=500>
+<img src="images/release.png" width=600>
 
 <br>
 
 **Step3:** 
 * Click on the Download <u>**Windows x86-64 executable**</u> installer link which is below the Stable Releases.
-![install](images/install.png)
+<img src="images/install.png" width=600>
 * An pop window will appear.Click savefile button.
 * The python will start downloading.
 * Start installing directly.
@@ -70,7 +70,7 @@ Installing Python</p>
 **Step1:**
 * Double click the downloaded file.
 * An **Setup** Window will pop up.
-![alt](images/setup.png)
+<img src="images/setup.png" width=600>
 * Check that both checkboxes below are checked.
 * Click on the **Install now**.
 * The progress of installation will be shown  
