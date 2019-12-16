@@ -28,8 +28,8 @@ First lets define what is python?</p>
 <div> 
 <p span style="font-size:2em;font-family:MV Boli">
 Installing Python</p>
-<u><p span style="font-size:1.6em">
-###Downloading###</p></u>
+###<u><p span style="font-size:1.6em">
+Downloading</p></u>###
 
  <div style="font-size:1.2em">
 
@@ -63,8 +63,8 @@ Installing Python</p>
 * The python will start downloading.
 * Start installing directly.
 
-<p span style="font-size:1.5em">
-<u>###Installing###</u></p>
+###<p span style="font-size:1.5em">
+<u>Installing</u></p>###
 
 <br>
 
