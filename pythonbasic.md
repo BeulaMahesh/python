@@ -52,7 +52,7 @@ Installing Python</p>
 * The python releases for windows will appear.
 * Based on the system type select the downloads.
 
-![release](images/release.png)
+<img src="images/release.png">
 
 <br>
 
