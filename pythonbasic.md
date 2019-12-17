@@ -29,24 +29,22 @@ First lets define what is python?</p>
 <p span style="font-size:2em;font-family:MV Boli">
 Installing Python</p>
 
+
 ### Downloading
 
- <div style="font-size:1.2em">
 
+ <div style="font-size:1.2em">
 * Lets follow the stepwise method to install python on your own devices
-<br>
+
+
 **Step1:** 
 
 
- Click on <u>[pythondownload](https://www.python.org/ downloads/)</u><br>
-
+Click on <u>[pythondownload](https://www.python.org/ downloads/)</u><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The page below will  appear on your brower
-<br>
-<br>
+
 
 <img src="images/windows.png" width=600>
-
-
 
 
 **Step2:** 
@@ -56,15 +54,19 @@ Installing Python</p>
 * The python releases for windows will appear.
 * Based on the system type select the downloads.
 
+
 <img src="images/release.png" width=600>
 
-<br>
 
 **Step3:** 
 
 
 * Click on the Download <u>**Windows x86-64 executable**</u> installer link which is below the Stable Releases.
+
+
 <img src="images/install.png" width=600>
+
+
 * An pop window will appear.Click savefile button.
 * The python will start downloading.
 * Start installing directly.
@@ -77,11 +79,12 @@ Installing Python</p>
 
 * Double click the downloaded file.
 * An **Setup** Window will pop up.
+
+
 <img src="images/setup.png" width=600>
 
 
 * Check that both checkboxes below are checked.
-
 
 
 **Step2:**
@@ -89,6 +92,8 @@ Installing Python</p>
 
 * Click on the **Install Now**.when you open, an User Account control window will pop-up asking do you want to allow this app to make changes to your device.
 * Click the Yes.A new Python 3.7.4 (64-bit) Setup pop-up window will start a Setup Progress message and a progress bar.
+
+
 <img src="images/progess.png" width=600>
 
 
