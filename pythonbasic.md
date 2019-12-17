@@ -22,13 +22,12 @@ First lets define what is python?</p>
 </div>
 <div> 
  
-## Installing Python</p>
-
-
+## Installing Python
 ### Downloading
 
 
  <div style="font-size:1.2em">
+ 
  * Lets follow the stepwise method to install python on your own devices
 
 
