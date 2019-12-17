@@ -7,17 +7,12 @@ Installing Python</br>
 Features of Python</br>
 Data types used python</br>
 My First Program
-
-
 </span>
 <p span style="font-size:2em;font-family:MV Boli">
 First lets define what is python?</p>
-
-
  <div style="font-size:1.2em">
 
  * Python is a high-level programming language designed to be easy to read and simple to implement.
-
 
  * Python is a programming language created by **Guido van Rossum**.
 
@@ -26,15 +21,15 @@ First lets define what is python?</p>
  * You will also be able to write your first simple program in python.
 </div>
 <div> 
-<p span style="font-size:2em;font-family:MV Boli">
-Installing Python</p>
+ 
+## Installing Python</p>
 
 
 ### Downloading
 
 
  <div style="font-size:1.2em">
-* Lets follow the stepwise method to install python on your own devices
+ * Lets follow the stepwise method to install python on your own devices
 
 
 **Step1:** 
@@ -70,6 +65,7 @@ Click on <u>[pythondownload](https://www.python.org/ downloads/)</u><br>
 * An pop window will appear.Click savefile button.
 * The python will start downloading.
 * Start installing directly.
+
 
 ### Installing
 
