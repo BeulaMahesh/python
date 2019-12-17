@@ -41,7 +41,6 @@ Click on <u>[pythondownload](https://www.python.org/ downloads/)</u><br>
 <img src="images/windows.png" width=600>
 <br>
 <br>
-<br>
 
 **Step2:** 
 
