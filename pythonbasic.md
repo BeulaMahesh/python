@@ -72,6 +72,8 @@ Installing Python</p>
 * Double click the downloaded file.
 * An **Setup** Window will pop up.
 <img src="images/setup.png" width=600>
+
+
 * Check that both checkboxes below are checked.
 
 
@@ -80,7 +82,6 @@ Installing Python</p>
 * Click on the **Install Now**.when you open, an User Account control window will pop-up asking do you want to allow this app to make changes to your device.
 * Click the Yes.A new Python 3.7.4 (64-bit) Setup pop-up window will start a Setup Progress message and a progress bar.
 <img src="images/progess.png" width=600>
-<br>
 
 
 **Step3:**
