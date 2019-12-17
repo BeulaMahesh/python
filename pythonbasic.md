@@ -34,8 +34,10 @@ Installing Python</p>
  <div style="font-size:1.2em">
 
 * Lets follow the stepwise method to install python on your own devices
-
+<br>
 **Step1:** 
+
+
  Click on <u>[pythondownload](https://www.python.org/ downloads/)</u><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The page below will  appear on your brower
@@ -48,6 +50,8 @@ Installing Python</p>
 
 
 **Step2:** 
+
+
 * Select the link based on your OS.Click on **Windows** link if ur an windows user<br>
 * The python releases for windows will appear.
 * Based on the system type select the downloads.
@@ -57,6 +61,8 @@ Installing Python</p>
 <br>
 
 **Step3:** 
+
+
 * Click on the Download <u>**Windows x86-64 executable**</u> installer link which is below the Stable Releases.
 <img src="images/install.png" width=600>
 * An pop window will appear.Click savefile button.
@@ -78,13 +84,17 @@ Installing Python</p>
 
 
 
-**step2:**
+**Step2:**
+
+
 * Click on the **Install Now**.when you open, an User Account control window will pop-up asking do you want to allow this app to make changes to your device.
 * Click the Yes.A new Python 3.7.4 (64-bit) Setup pop-up window will start a Setup Progress message and a progress bar.
 <img src="images/progess.png" width=600>
 
 
 **Step3:**
+
+
 * After the completion of installation,a new Python 3.7.4(64-bit) Setup window will pop-up stating Setup was successfull.
 
 
