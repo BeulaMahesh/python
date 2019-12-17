@@ -8,8 +8,10 @@ Features of Python</br>
 Data types used python</br>
 My First Program
 </span>
+
+
 <p span style="font-size:2em;font-family:MV Boli">
-First lets define what is python?</p>
+&nbsp;&nbsp;&nbsp;&nbsp;First lets define what is python?</p>
  <div style="font-size:1.2em">
 
  * Python is a high-level programming language designed to be easy to read and simple to implement.
