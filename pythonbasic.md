@@ -68,6 +68,8 @@ Installing Python</p>
 <br>
 
 **Step1:**
+
+
 * Double click the downloaded file.
 * An **Setup** Window will pop up.
 <img src="images/setup.png" width=600>
@@ -79,6 +81,8 @@ Installing Python</p>
 <br>
 **Step3:**
 * After the completion of installation,a new Python 3.7.4(64-bit) Setup window will pop-up stating Setup was successfull.
+
+
 <img src="images/success.png" width=600>
 
 
