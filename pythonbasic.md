@@ -1,5 +1,5 @@
  # <p style="text-align:center;font-size:2em">*_Programming In Python_* </p>
- ## <p style="text-align:center;font-family:Segoe Script;font-size:2em">**Beginners Guide** </p>
+ ## <p style="text-align:center;font-size:2em">**Beginners Guide** </p>
  <p style="font-size:3em">Contents</p>
 <p span style="font-size:2em">
 What is Python?</br>
@@ -10,7 +10,7 @@ My First Program
 </span>
 
 
-<p span style="font-size:2em;font-family:MV Boli">
+<p span style="font-size:2em;">
 &nbsp;&nbsp;&nbsp;&nbsp;First lets define what is python?</p>
  <div style="font-size:1.2em">
 
